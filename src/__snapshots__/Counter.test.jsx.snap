@@ -1,0 +1,18 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Counter 组件 > Counter渲染快照 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      data-testid="display"
+    >
+      0
+    </h1>
+    <button
+      type="button"
+    >
+      +1
+    </button>
+  </div>
+</DocumentFragment>
+`;
